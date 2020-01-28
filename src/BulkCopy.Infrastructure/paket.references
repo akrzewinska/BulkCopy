@@ -1,0 +1,4 @@
+Microsoft.EntityFrameworkCore
+Npgsql.EntityFrameworkCore.PostgreSQL
+EFCore.BulkExtensions
+Microsoft.EntityFrameworkCore.Design
